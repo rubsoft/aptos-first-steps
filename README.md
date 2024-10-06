@@ -1,5 +1,5 @@
 ![banner](./recursos/imagenes/banner.png)
-# Primeros pasos en Aptos
+# Primeros pasos en Aptos de Ruben
 
 ## Introducción
 
